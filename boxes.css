@@ -1,0 +1,48 @@
+.main{
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+.heading{
+	font-weight: bold;
+	font-family: cursive;
+	font-size: 50px;
+	text-align: center;
+	padding: 10px;
+	border: 5px;
+	background-color: #33BEBE;
+}
+.title{
+	margin: 10px;
+	}
+.image{
+	padding: 10px;
+	border: 5px;
+	max-width: 40%;
+	width: 40%
+	width: 218px;
+}
+.text {
+	text-align: left;
+	width: 80%;
+	max-width: 90%;
+	padding: 10px;
+	border: 5px;
+	font-family: cursive;
+	background-color: #FAF7E2;
+}
+.parent{
+	display: flex;
+}
+.author{
+	font-family: cursive;
+	font-size: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: right;
+	background-color: #FAF7E2;
+}
